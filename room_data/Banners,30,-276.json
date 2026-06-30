@@ -8,6 +8,18 @@
     "length": 31,
     "height": 33,
     "secrets": [],
+    "prop_entities": [
+        {
+            "type": "painting",
+            "position": [
+                21,
+                71,
+                15
+            ],
+            "rotation": "CounterClockwise90",
+            "variant": "Wanderer"
+        }
+    ],
     "block_entities": [
         {
             "position": [

@@ -17,7 +17,6 @@
                 15.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -33,7 +32,6 @@
                 27.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -49,7 +47,6 @@
                 15.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -65,7 +62,6 @@
                 11.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -81,7 +77,6 @@
                 11.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -97,7 +92,6 @@
                 19.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -113,7 +107,6 @@
                 27.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -129,7 +122,6 @@
                 19.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -145,7 +137,6 @@
                 3.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -161,7 +152,6 @@
                 3.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -177,7 +167,6 @@
                 19.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -193,7 +182,6 @@
                 11.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -209,7 +197,6 @@
                 15.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -225,7 +212,6 @@
                 3.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -241,7 +227,6 @@
                 15.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -257,7 +242,6 @@
                 3.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -273,7 +257,6 @@
                 3.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -289,7 +272,6 @@
                 15.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -305,7 +287,6 @@
                 11.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -321,7 +302,6 @@
                 11.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -337,7 +317,6 @@
                 11.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -353,7 +332,6 @@
                 27.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -369,7 +347,6 @@
                 27.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -385,7 +362,6 @@
                 15.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -401,7 +377,6 @@
                 19.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -417,7 +392,6 @@
                 27.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -433,7 +407,6 @@
                 3.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -449,7 +422,6 @@
                 19.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -465,7 +437,6 @@
                 19.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,
@@ -481,7 +452,6 @@
                 27.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,

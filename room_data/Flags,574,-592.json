@@ -17,7 +17,6 @@
                 29.509666628455648
             ],
             "yaw": 135.0,
-            "body_yaw": 135.0,
             "is_invisible": true,
             "flags": 5,
             "helmet": {
@@ -34,7 +33,6 @@
                 29.486547060019348
             ],
             "yaw": -135.0,
-            "body_yaw": -135.0,
             "is_invisible": true,
             "flags": 5,
             "helmet": {
@@ -51,7 +49,6 @@
                 33.53509648791328
             ],
             "yaw": 45.0,
-            "body_yaw": 45.0,
             "is_invisible": true,
             "flags": 5,
             "helmet": {
@@ -68,7 +65,6 @@
                 33.526466310398405
             ],
             "yaw": -45.0,
-            "body_yaw": -45.0,
             "is_invisible": true,
             "flags": 5,
             "helmet": {

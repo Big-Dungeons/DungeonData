@@ -17,7 +17,6 @@
                 12.925823122430756
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "flags": 4,
             "right_arm": [
@@ -38,7 +37,6 @@
                 9.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": false,
             "flags": 12,
             "left_arm": [
@@ -87,7 +85,6 @@
                 59.297721071331694
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "helmet": {
@@ -103,7 +100,6 @@
                 8.883685699420766
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "flags": 4,
             "right_arm": [
@@ -124,7 +120,6 @@
                 59.50331236219313
             ],
             "yaw": -135.0,
-            "body_yaw": -135.0,
             "is_invisible": true,
             "flags": 5,
             "helmet": {
@@ -141,7 +136,6 @@
                 48.5
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "head": [
@@ -163,7 +157,6 @@
                 58.96559155463751
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "head": [
@@ -184,7 +177,6 @@
                 13.490019218344287
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "flags": 4,
             "right_arm": [
@@ -205,7 +197,6 @@
                 60.51283596254552
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 5,
             "helmet": {
@@ -222,7 +213,6 @@
                 20.13456529373707
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "flags": 4,
             "chestplate": {
@@ -239,7 +229,6 @@
                 15.502786860656329
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "flags": 4,
             "chestplate": {
@@ -255,7 +244,6 @@
                 59.30143693917864
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "helmet": {
@@ -271,7 +259,6 @@
                 59.31046057047922
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "helmet": {
@@ -287,7 +274,6 @@
                 58.95197403541954
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "head": [
@@ -308,7 +294,6 @@
                 22.011546730115697
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "flags": 4,
             "chestplate": {
@@ -325,7 +310,6 @@
                 12.972040786489856
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": true,
             "flags": 4,
             "right_arm": [
@@ -346,7 +330,6 @@
                 58.94976356920574
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "head": [

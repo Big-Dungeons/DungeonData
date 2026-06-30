@@ -10,6 +10,16 @@
     "secrets": [],
     "prop_entities": [
         {
+            "type": "painting",
+            "position": [
+                20,
+                74,
+                14
+            ],
+            "rotation": "CounterClockwise90",
+            "variant": "Graham"
+        },
+        {
             "type": "armor_stand",
             "position": [
                 25.5,
@@ -17,7 +27,6 @@
                 7.5
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": false,
             "flags": 12,
             "head": [

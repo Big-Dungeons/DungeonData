@@ -17,7 +17,6 @@
                 53.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": false,
             "flags": 12,
             "head": [
@@ -61,7 +60,6 @@
                 53.00573829346783
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": true,
             "flags": 4,
             "left_arm": [
@@ -87,7 +85,6 @@
                 9.415483742154706
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": false,
             "flags": 12,
             "head": [

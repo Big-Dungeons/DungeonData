@@ -17,7 +17,6 @@
                 14.500827641716455
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "flags": 4,
             "head": [
@@ -39,7 +38,6 @@
                 92.89054060739
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": false,
             "flags": 12,
             "head": [
@@ -100,7 +98,6 @@
                 31.3210166340956
             ],
             "yaw": -45.0,
-            "body_yaw": -45.0,
             "is_invisible": false,
             "flags": 12,
             "head": [
@@ -165,7 +162,6 @@
                 15.618183503133196
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": true,
             "flags": 4,
             "head": [
@@ -187,7 +183,6 @@
                 27.99313092855118
             ],
             "yaw": -70.0,
-            "body_yaw": -70.0,
             "is_invisible": false,
             "flags": 12,
             "head": [

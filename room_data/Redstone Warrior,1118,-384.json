@@ -17,7 +17,6 @@
                 15.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": false,
             "flags": 4,
             "helmet": {
@@ -46,7 +45,6 @@
                 10.5
             ],
             "yaw": 90.0,
-            "body_yaw": 90.0,
             "is_invisible": false,
             "flags": 12,
             "right_arm": [
@@ -92,7 +90,6 @@
                 10.5
             ],
             "yaw": -90.0,
-            "body_yaw": -90.0,
             "is_invisible": false,
             "flags": 12,
             "left_arm": [

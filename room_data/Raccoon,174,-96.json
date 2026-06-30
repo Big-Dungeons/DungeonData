@@ -17,7 +17,6 @@
                 2.5
             ],
             "yaw": -45.0,
-            "body_yaw": -45.0,
             "is_invisible": false,
             "flags": 12,
             "head": [
@@ -74,7 +73,6 @@
                 8.5
             ],
             "yaw": -142.0,
-            "body_yaw": -142.0,
             "is_invisible": true,
             "helmet": {
                 "item_id": 397,

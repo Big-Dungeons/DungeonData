@@ -17,7 +17,6 @@
                 48.116736637359395
             ],
             "yaw": 0.0,
-            "body_yaw": 0.0,
             "is_invisible": true,
             "flags": 4,
             "body": [
@@ -43,7 +42,6 @@
                 48.52596475369353
             ],
             "yaw": -180.0,
-            "body_yaw": -180.0,
             "is_invisible": false,
             "flags": 12,
             "head": [
